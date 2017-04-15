@@ -1,0 +1,3 @@
+Jane Doe 123 Silver Lane jdoe001@ucr.edu 111111111 5025.0 66.67 
+Jimmy Lin 244 Golden Drive jlin024@ucr.edu 123456789 4158.0 70.50 
+
